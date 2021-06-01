@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **React**
 - 👀 I’m interested in learning **PHP and Mysql**
 - 📫 How to reach me **eduardo.77.1996@gmail.com**
+- :globe_with_meridians: Languages: **English, Spanish**
 
 
 <h3 align="left">Technologies</h3>
