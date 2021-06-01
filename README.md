@@ -2,7 +2,7 @@
 <h3 align="center">A person passionate about technology and languages from El Salvador</h3>
 
 - 🌱 I’m currently learning **React**
-- 👀 I’m interested in learning PHP and Mysql
+- 👀 I’m interested in learning **PHP and Mysql**
 - 📫 How to reach me **eduardo.77.1996@gmail.com**
 
 
